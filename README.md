@@ -95,9 +95,7 @@ This SQL layer ensures that the dataset is clean, structured, and optimized for 
 
 ---
 
-## 📷 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
 
 ---
 
