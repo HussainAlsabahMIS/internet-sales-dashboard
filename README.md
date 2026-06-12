@@ -52,7 +52,8 @@ The project includes the following datasets:
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshot of your Power BI dashboard here)*
+
+![Sales Dashboard](dashboard.png)
 
 ---
 
